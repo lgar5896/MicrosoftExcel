@@ -16,3 +16,7 @@ Transformar y visualiazr los datos que permita los propietarios de la tienda obt
   
   
 ![WhatsApp Image 2024-06-26 at 12 51 50 PM](https://github.com/lgar5896/MicrosoftExcel/assets/174288921/2477699a-aa29-408e-8edc-d13adc2886f2)
+
+
+### Código utilizado en el análisis 
+``` SELECT FROM table ```
