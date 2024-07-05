@@ -19,4 +19,4 @@ Transformar y visualiazr los datos que permita los propietarios de la tienda obt
 
 
 ### Código utilizado en el análisis 
-``` SELECT FROM table ```
+``` SELECT * FROM table ```
